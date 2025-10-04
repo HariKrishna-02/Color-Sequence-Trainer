@@ -1,5 +1,5 @@
 # Color-Sequence-Trainer
-An interactive color memory game using Arduino UNO with four LCEDs, buttons, and a buzzer. Players replicate color sequences displayed by LEDs, testing and improving their memory and focus skills in a fun and engaging way.
+An interactive color memory game using Arduino UNO with four LEDs, buttons, and a buzzer. Players replicate color sequences displayed by LEDs, testing and improving their memory and focus skills in a fun and engaging way.
 
 # Materials Required
 1. Aruino Uno - 1
